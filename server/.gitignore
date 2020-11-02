@@ -1,0 +1,6 @@
+//dont want to include node modules
+node_modules/
+
+//don't want the personal info in .env to be leaked
+.env
+
